@@ -1,0 +1,17 @@
+.header {
+    padding: 30px;
+    text-allign: center;
+    background: salmon;
+    color: white;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.p1 {
+    padding: 5px;
+    text-allign: center;
+    background: lightblue;
+    color: white;
+    font-size: 15px;
+    font-family: monospace;
+}

@@ -1,0 +1,49 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+section 
+{
+    padding: 0 100px;
+    background: url(sunset.jpg);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex direction: left;
+    
+}
+.box 
+{
+    position: relative;
+    max-width: 500px;
+    padding: 30px;
+    background: rgba(255,255,255,.7);
+    box-shadow: 0 5px 15px rgba(0,0,0,5);
+    margin: 350px;
+}
+.box h2 
+{
+    margin: 0 0 20px;
+    padding: 0;
+    font size: 40px;
+    text-transform: uppercase;
+    color: #044463;
+}
+.box1
+{
+    position: right;
+    max-width: 500px;
+    padding: 30px;
+    background: rgba(255,255,255,.7);
+    box-shadow: 0 5px 15px rgba(0,0,0,5);
+}
+.box h3 
+{
+    margin: 0 0 20px;
+    padding: 0;
+    font size: 40px;
+    text-transform: uppercase;
+    color: #044463;
+}
